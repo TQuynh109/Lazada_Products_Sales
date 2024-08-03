@@ -1,2 +1,2 @@
 # Lazada_Products_Sales
-Analyze the factors influencing the total sales of products on the e-commerce platform (Lazada).
+Crawl data from the e-commerce website (Lazada) and analyze the factors affecting the total number of product sales.
